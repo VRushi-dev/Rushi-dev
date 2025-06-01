@@ -1,19 +1,23 @@
-# Rushi-dev
-# Hi 👋 I'm Rushi
+# 👋 Hi, I'm Rushi
 
-I'm a first-year Computer Science student at CVR College, currently learning:
-- ✅ Web Development (HTML, CSS, JS)
-- ✅ Data Structures & Algorithms (DSA)
-- ✅ Git & GitHub for version control
+🎓 I'm a first-year Computer Science student at CVR College of Engineering.  
+🚀 I'm learning Web Development and Data Structures & Algorithms.  
+🛠️ I’m also exploring GitHub, Linux, Python, and open source.
 
-## 🔧 Tools I’m Using
-- HTML, CSS, JavaScript
-- Python, C
-- Git & GitHub
+## 🧰 Tech Stack
+- Languages: C, Python, JavaScript
+- Frontend: HTML, CSS, JavaScript
+- Tools: Git, GitHub, VS Code
 
-## 🚀 Goals
-- Build strong projects and publish on GitHub
-- Contribute to open source
-- Learn Full Stack Development
+## 📈 Current Goals
+- Build and upload real-world projects to GitHub
+- Improve my problem-solving skills (DSA)
+- Start contributing to open source projects
 
-Connect with me on [LinkedIn](https://linkedin.com) (update link after setting it up!)
+## 📫 Connect With Me
+- LinkedIn: [Add your link here later]
+- Email: [Your email here]
+
+---
+
+> *This profile is under active development. Stay tuned! 🚀*
