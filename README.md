@@ -15,6 +15,7 @@
 - Start contributing to open source projects
 
 ## 📫 Connect With Me
+- LeetCode: https://leetcode.com/u/Rushi_24756/
 - LinkedIn: https://www.linkedin.com/in/v-rushi-851145311/
 - Email: vrushi756@gmail.com
 
