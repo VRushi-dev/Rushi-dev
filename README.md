@@ -15,8 +15,8 @@
 - Start contributing to open source projects
 
 ## 📫 Connect With Me
-- LinkedIn: [Add your link here later]
-- Email: [Your email here]
+- LinkedIn: https://www.linkedin.com/in/v-rushi-851145311/
+- Email: vrushi756@gmail.com
 
 ---
 
